@@ -14,69 +14,53 @@
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
-          <div class="collapse navbar-collapse" id="navbarSupportedContent" style="margin-left: 540px">
+          <div class="collapse navbar-collapse" id="navbarSupportedContent" style="margin-left: 510px">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-
+              <li class="nav-item">
+                <a class="nav-link text-dark" href="">A propos</a>
+              </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle text-dark" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                    Candidat
+                    Passager
                 </a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="">Ajouter</a></li>
-                  <li><a class="dropdown-item" href="">Lister</a></li>
+                  <li><a class="dropdown-item" href="">Comment ça marche</a></li>
+                  <li><a class="dropdown-item" href="">Nos prix et engagements</a></li>
 
                 </ul>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle text-dark" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        Formation
+                        Chauffeurs
                     </a>
                     <ul class="dropdown-menu">
-                      <li><a class="dropdown-item" href="">Ajouter</a></li>
-                      <li><a class="dropdown-item" href="">Lister</a></li>
+                      <li><a class="dropdown-item" href="">Comment ça marche</a></li>
+
                     </ul>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle text-dark" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                    Referentiel
+                    Business
                 </a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="">Ajouter</a></li>
-                  <li><a class="dropdown-item" href="">Lister</a></li>
+                  <li><a class="dropdown-item" href="">Comment ça marche</a></li>
+                  <li><a class="dropdown-item" href="">Nos forfaits</a></li>
 
                 </ul>
                 </li>
+                <li class="nav-item">
+                  <a class="nav-link text-dark" href="">Se connecter</a>
+                </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle text-dark" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        Type
+                        Inscription
                     </a>
                     <ul class="dropdown-menu">
-                      <li><a class="dropdown-item" href="">Ajouter</a></li>
-                      <li><a class="dropdown-item" href="">Lister</a></li>
+                      <li><a class="dropdown-item" href="">Compte passager</a></li>
+                      <li><a class="dropdown-item" href="">Compte chauffeur</a></li>
+                      <li><a class="dropdown-item" href="">Compte business</a></li>
 
                     </ul>
                     </li>
-
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle text-light" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                    Actions
-                </a>
-                <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="">Choix Formation</a></li>
-                  <li><a class="dropdown-item" href="">Nombre de candidat par formation</a></li>
-                  <li><a class="dropdown-item" href="">Nombre de formation par referentiel</a></li>
-                  <li><a class="dropdown-item" href="">Repartition totale des candidats par sexe</a></li>
-                  <li><a class="dropdown-item" href="">Repartition des formations par type</a></li>
-                </ul>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link text-light" href="">Graphe</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link text-light" href="">Statistique</a>
-          </li>
-              <li class="nav-item">
-                <a class="nav-link disabled">Disabled</a>
-              </li>
             </ul>
 
           </div>
